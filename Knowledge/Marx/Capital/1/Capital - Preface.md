@@ -1,0 +1,27 @@
+#Philosophy/Marx/Capital [[Capital]]
+## Preface to the First German Edition
+ - Capital, Vol. 1 continues the project begun in A Contribution to the Critique of Political Economy (1859). The substance of that earlier work is summarized and refined in the first three chapters of Capital.
+- He omits the earlier book’s historical sections (on theories of value and money) to focus on the systematic exposition of the capitalist mode of production itself.
+- The first chapter (especially the analysis of the commodity) is the hardest part.
+- The commodity is like a biological cell, the smallest unit whose analysis requires abstraction but reveals the logic of the whole organism (capitalism).
+- Economic categories can’t be studied with microscopes; they require abstraction (the force of abstraction must replace both).
+- England is used as an empirical window into capitalism’s universal laws , the same dynamics will unfold elsewhere as capitalism matures.
+- Marx stresses he’s not writing a moral critique but revealing the natural laws of capitalist production.
+- These laws operate with iron necessity toward definite results. The level of development differs between countries, but the direction of development (toward crisis and class antagonism) is universal.
+- Continental Europe suffers a double burden: The new evils of capitalism, and the incomplete development of capitalism, remnants of feudalism and outdated social forms.
+- Marx praises England’s relative openness to empirical social investigation, contrasted with continental governments ignorance, willful blindness to the monsters of social misery.
+- The American Revolution sparked the rise of the bourgeoisie. The American Civil War signals the awakening of the working class.
+- Marx dedicates much of Volume I to the history of factory legislation, showing how class struggle leads even capitalist states to limit exploitation. 
+- The book is both a critique of capital _and_ an empirical study of its concrete social effects.
+- The capitalist and landlord class are personifications of economic categories, not autonomous moral agents.
+- Economics provokes the most violent passions because it exposes private interests
+- Capital seeks to reveal the economic law of motion of modern society. Society cannot leap past its development stages, but understanding these laws can shorten and lessen the birth-pangs of transition to a new order.
+- The work is both scientific and revolutionary: unveiling capitalism’s inner dynamics to hasten its transformation.
+## Afterword to the Second German Edition
+Political economy was an imported science from England and France), never rooted in German capitalist conditions. German economists merely parroted foreign ideas and mixed them with bureaucratic Cameral studies. The rise of capitalism in Germany was too late for a bourgeois scientific economy to develop independently. Hence, Germany’s strength lies not in bourgeois science, but in the critique of that science — i.e., in the proletariat’s historical role.
+Classical political economy (Smith, Ricardo) developed when capitalism was young and class antagonisms underdeveloped. Ricardo reached the limit by uncovering class antagonisms (wages vs. profits vs. rent) but saw them as natural laws. Post-Ricardo (1820–30): a burst of debate, but soon bourgeois apologetics replaced real science as class struggle intensified. By the 1830s and 1840s, bourgeois economists no longer sought truth but defenses of capital. John Stuart Mill represents the final, shallow attempt to reconcile capital and labor, the bankruptcy of bourgeois economics. Bourgeois political economy could only exist while class conflict was hidden; once that conflict became explicit, science became ideology.
+Genuine critique of political economy now comes only from the standpoint of the proletariat, the class destined to abolish capitalism itself. Thus, Marx’s project represents the scientific heir to classical economics, but against its apologetic closure.
+Notes the positive Russian reception emphasizing that they grasped the scientific logic better than many Western Europeans.
+Marx’s method seeks to uncover the laws of motion governing economic forms — not just as they exist, but as they develop and transform. He studies these laws as natural history: processes governed by necessity, not by human will or consciousness. Marx denies that there are universal, timeless laws of political economy. Every historical mode of production has its own laws, corresponding to its own structure. Economic categories are thus historical, not natural — they arise and disappear with the societies that create them. The Russian critic’s description captures the essence of dialectical method: tracing necessity through change. Marx agrees: this is precisely what he calls the dialectical method, though he insists it must be used materialistically.
+"With me, on the contrary, the ideal is nothing else than the material world reflected by the human mind, and translated into forms of thought." So Marx keeps the dynamic, self-contradictory logic of Hegel’s dialectic, but turns it right-side up by grounding it in material social relations.
+Dialectics recognize every social order as transitory and contradictory. Understands historical development as a process of negation and transformation. Is inherently critical and revolutionary, since it denies the permanence of any system.

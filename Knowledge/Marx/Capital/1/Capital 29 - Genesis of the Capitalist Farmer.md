@@ -1,0 +1,13 @@
+#Philosophy/Marx/Capital [[Capital]]
+English capitalist farmer emerged gradually from medieval forms of landholding. Through enclosures, the dissolution of common lands, long leases, and the price revolution of the 16th century, farmers enriched themselves by exploiting wage-labour while simultaneously benefiting from falling real wages and fixed nominal rents. By the late 1500s, this process produced a distinct, wealthy capitalist farmer class—an essential pillar of capitalist agriculture.
+Where did capitalist farmers come from? Only landlords are created directly by expropriation; capitalist farmers emerge through a long, gradual transformation.
+The earliest farmers in England are not capitalists but the medieval bailiff: A serf who manages the lord’s demesne, but works with dependent labour instead of wage-labour.
+The transition to rent-based farmers (late 14th century): Landlords begin leasing land to a farmer. The landlord provides livestock, tools, seed. The farmer supervises more wage-labour than the peasant but is still quasi-dependent.
+Sharecropper: Farmer and landlord each provide part of the inputs, then split the crop. This system disappears rapidly in England.
+True capitalist farmer: Uses his own capital. Employs wage-labourers. Pays rent to the landlord from the surplus he appropriates. This final form marks the emergence of the capitalist farmer proper.
+Several historical developments dramatically enrich the farmer while impoverishing peasants, allowing them to become wealthy in the 15th-16th centuries:
+	(1) Enclosure and common-land usurpation: Farmers get large livestock herds for free by taking over commons. More cattle → more manure → higher yields. This accelerates agricultural productivity and capitalist-style farming.
+	(2) Long-term leases (often 99-year contracts): Farmers pay fixed rents denominated in old money values.Meanwhile, the value of money falls dramatically in the 1500s (the price revolution).
+	(3) The price revolution (fall in value of silver/gold): Prices of agricultural goods (grain, wool, meat) rise sharply. Money wages do not rise accordingly, so: real wages fall, farmers pocket the difference.
+	(4) Double enrichment: Farmers grow rich simultaneously: (A) at the expense of labourers, who pay wages in depreciated money. (B) At the expense of landlords, who pay fixed rents in depreciated money while selling produce at higher market prices.
+By the end of the 16th century, England has a fully-formed capitalist farmer class, wealthy relative to other strata.

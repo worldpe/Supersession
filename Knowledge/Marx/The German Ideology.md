@@ -1,0 +1,5 @@
+#Philosophy/Marx [[Marx]]
+[[Idealism and Materialism]]
+[[The Illusion of the Epoch]]
+[[The Real Basis of Ideology]]
+[[Proletarians and Communism]]

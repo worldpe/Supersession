@@ -1,0 +1,92 @@
+#Philosophy/Lenin
+# Preface
+This pamphlet is wrote under tsarist censorship, and in it he will summarize bourgeois statistics and admissions to give an objective picture of capitalism around 1900-1914 to analyze the global system of capitalism.
+WWI was an imperialist war over colonies, markets and world domination, and it will be proven by looking at the economic structure of ruling classes. Imperialism makes wars inevitable because global capitalism has carved up the world, and rivals can only fight to repartition it.
+He attacks ideas such as world democracy and pacifism, such as the league of nations and will show how the treaties made after ww1 show that all powers are equally predatory. The war destroyed millions of lives, but in doing so also exposed the lies of social-pacifists and reformists.
+Kautsky’s idea of a ultra-imperialism (imperial powers uniting to avoid war) is reactionary, reformist socialism helps imperialism survive by blinding workers to its contradictions.
+The workers movement in advanced countries often turns reformist. Superprofits funnel from colonies/semi-colonies to small groups of advanced states, to bribe a labor aristocracy, making them props of capitalism instead of revolutionaries.
+The **Labour Aristocracy:** The real agents of the bourgeoisie in the working class movement, the labour lieutenants of the capitalist class, real vehicles of reformism and chauvinism. In the civil war between the proletariat and the bourgeoisie they inevitably, and in no small numbers, take the side of the bourgeoisie, the "Versaillese" against the "Communards."
+Imperialism is capitalism in decay, it creates parasitism in the imperialist core and inevitably leads to wars as great powers fight for redivision. 
+# Ch 1: Concentration of Production & Monopolies
+Industrial development leads to oligopolies, with less than 1% of enterprises controlling 75% of industrial output. Already, the small-scale producer is effectively irrelevant compared to giant firms.
+Once concentration reaches a certain stage, competition itself produces monopoly. In the U.S., by 1909, 3,000 firms controlled nearly half of industrial output and a handful of enterprises in each branch can easily arrive at an agreement.
+Even without tariffs, concentration leads to monopoly. When Marx wrote Capital, "free competition" was treated as a permanent natural law, and he contended that it will produce a concentration of production, which leads to monopolies. By this time period, this process had matured and monopolies dominated.
+Enterprises don’t just grow within one sector, they combine different stages of production (vertical integration) and related industries. This combination stabilizes profits, reduces risks, absorbs patents, and increases the power of monopolies. "Combination allows superprofits, depresses 'pure' firms, and strengthens monopoly power."
+Monopolies socialize production without socializing ownership. Raw materials, labor, transport and technology all comes into being to cater to their needs but all under private appropriation. The gains go to a few financiers and speculators.
+Monopoly isn’t just about economics, it’s about coercion and domination.
+Bourgeois economists change approach to present monopoly as a stabilizing force, but monopolies aggravate the chaos in capitalism by widening the gap between agriculture and industry and privileging cartelized industry while outside industries become uncoordinated and unstable.
+The economic crisis of 1900 wiped out the smaller pure firms and left giant firms integrated with lasting dominance. Crises are not abolished by monopolies, they are the very mechanism that sharpens concentration into monopoly.
+## Ch 2: Banks and their New Roles
+Banking under capitalism developed from a mere middle man to something qualitatively new: a concentrated monopoly power that fuses with industrial capital into finance capital
+	Banks no longer just lent to firms. They became shareholders, directors, and managers of industrial corporations. Bank directors sat on the boards of steel, coal, and electrical companies, guiding industrial strategy. This is the fusion of industrial and banking capital = finance capital.
+Banks appear to socialize capital, but in reality they don't neutralize private ownership, they concentrate it in fewer and f ewer hands. Instead of broad access to credit, you get domination by a handful of banks.
+1900s Germany anticipates the modern system of bank conglomerates, subsidiaries, and interlocking directorates.
+	Banks expanded into all sectors: loans, shares, speculation, insurance, colonial ventures, becoming 'universal' and controlling everything form small loans to entire syndicates and trusts.
+By the late 19th and early 20th century, banks weren’t just lenders to industrial firms, rather they were shareholders, directors, and overseers of industry. Industrial capital and bank capital coalesce into finance capital, which becomes the economic base of imperialism.
+	The old image of capitalism centered on the stock exchange (with free competition among investors) was waning. Monopoly banks could manipulate markets, restrict credit, and make "competition" largely meaningless.
+Once banks centralize deposits and control industries, they dominate not only a nation’s economic life but also global finance, creating a world capitalist economy where a few finance capitals divide the globe.
+	German banks had branches in South America, the Balkans, and Turkey; British and French banks in Egypt, Morocco, and Asia. The banking system became an **instrument for exporting capital abroad**, embedding financial monopolies into global imperial rivalries.
+## Ch 3: Finance Capital & the Financial Oligarchy
+**Finance Capital:** Is capital controlled by banks and employed by industrialists.
+Once production is concentrated, the relative power of big banks over industry increases, producing finance capital.
+It is possible with a comparatively small capital to dominate immense spheres of production by having a controlling share of voting stocks
+Issuing widely distributed small-denomination shares gives the appearance of broad ownership but actually concentrates voting control, scattered small shareholders rarely coordinate or attend meetings, so effective control stays with large financial interests.
+Balance sheet tricks and shell companies can be used to privatize gains and socialize risks.
+**Collective Capitalist:** Where financial and industrial capital coordinate strategy, investment and policy.
+Huge profits are made from issuing state and corporate bonds: issuing agencies skim large commissions. Underwriting, placement, and bond deals are highly profitable and central to the growing income of finance capital.
+During depressions banks acquire distressed firms cheaply and profit from reconstruction. Crises destroy small capital and big finance buys assets at firesale prices to reshape industry under its control.
+Banks leverage control over transport, real estate and communications to monopolize rents and coordinated realestate speculation.
+Only some states hold most of finance capital, export of capital creates dependency. Britain, US, France & Germany hold 80% of world financial securities. As finance capital becomes an international force that exports capital and creates dependent debtor economies, this establishes the basis for imperial domination.
+## Ch 4: Export of Capital
+Old capitalism was about the export of good, but new capitalism is about exporting capital itself. Investment abroad becomes profitable in itself and goods and abstracted away into liquid assets.
+Advanced countries have generated an enormous surplus of capital, so they cannot profitably reinvest at home due to stagnant agriculture and poverty, and must look abroad.
+Investing in domestic welfare would cut profits, so export to colonies/semi-colonies is preferred, in these countries profits are usually high… capital is scarce… wages are low… raw materials are cheap
+Types of Imperialism
+	Britain: Capital tied to colonies (railways, raw materials)
+	France: Capital tied to loans (Usuary Imperialism)
+	Germany: Industrial investments spread across Europe & America
+The export of capital industrializes periphery states, but in dependent forms that tie them to imperial centers. Credit is political leverage and finance capital fuses with state diplomacy and arms industries.
+Colonial banks & their branches anchor global capital control the figurative division of capital becomes an actual partition of the globe.
+## Ch 5: Division of the World Among Capitalist Associations
+Once cartels/trusts dominate nationally, they must push outward, since capital needs a global arena.
+The 1900 German crash consolidated the electrical industry into AEG & Siemens, crises wipe out weaker firms and strengthen monopolies linked to finance. The banks enormously accelerated and intensified the ruin of relatively small firms and their absorption by the large ones.
+When giants dominate domestically, they negotiate global markets instead of endlessly competing and international cartels form.
+In 1907, GE & AEG divided the world in half and agreed to share patents and inventions in order to keep everyone else down.
+Standard Oil was able to out maneuver the rest of the oil companies and work them into worse deals. Deutsche Bank tried to push a German state oil monopoly as a way to regain leverage against Rockefeller, but state monopolies don’t break capitalism but rescue faltering private monopolies at public expense.
+The capitalists divide the world, not out of any particular malice, but because the degree of concentration forces them to adopt this method in order to obtain profits. Kautsky thought cartels could bring peace, but in reality they only postpone wars, because redivision follows uneven development.
+## Ch 6: Division of the World Among the Great Powers
+By the end of the 19th century, almost every region of the world had been taken over by one or another of the major capitalist powers. (Britain, France, Germany, Russia, the U.S., Japan). All land was claimed, so future imperialist competition could only mean redivision, making global war inevitable.
+Imperialism is not a policy choice, but a necessary stage in capitalism’s evolution.
+Cartels, trusts and finance capital formed to protect exclusive control of raw materials and markets. Instead of open competition, you get closed protected colonial spheres. Imperialism is not just greedy expansion, but rather a structural outcome of capitalism's internal development.
+Cecil Rhode and other capitalist support imperialism to prevent civil war at home, believing in the theory of overpopulation. Colonies allow for new market growth, investment of surplus capital, land for emigration and a distraction for the working class. It exist as a social safety valve.
+Lenin posits a world system of countries, core, semi-periphery and periphery (not his terms)
+Finance capital can control a nation without annexation through debt and political alliance.
+finance capital tries to grab as much territory as possible to anticipate future resource discoveries or technological uses.
+### Kautsky
+Kautsky posits that imperialism is merely a choice done by capitalist powers, not an essential part of the system, but a policy, and capitalism could evolve toward a more peaceful international order. Under ultra-imperialism, capitalist could unite into a single global cartel, to jointly exploit the world, rather than fight over it. capitalist cartels had already eliminated competition within nations, why not between them?
+Lenin argues that rival monopolies and states can never coexist peacefully for long because capitalist powers are unevenly developed, some rise faster, while others stagnate. This shifts balance of power, leading to war to rectify this. So alliances become temporary truces before the next war.
+Lenin says that imperialism isn't just about states competing, it's a class process. Finance capitalists in rich countries live off the superprofits, which are used to bribe the labor aristocracy. Kautsky glosses over this by imagining peaceful cooperation among imperialists, causing him to defend defend the system
+## Ch 7: Imperialism as a Special Stage of Capitalism
+"Imperialism is capitalism at that stage of development at which the dominance of monopolies and finance capital is established; in which the export of capital has acquired pronounced importance; in which the division of the world among the international trusts has begun, in which the division of all territories of the globe among the biggest capitalist powers has been completed."
+Many small firms become a few giant firms, and national industries become global cartels and finance capital. This is a structural transformation that results from the concentration of capital, not an ideological decision.
+About 80% of the world’s railways are owned by five powers, yet the distribution of these railways doesn’t match the distribution of industrial strength. Germany has far greater industrial capacity than colonial territory. Britain’s industry is relatively stagnant but has massive colonial holdings. This mismatch makes war inevitable.
+Every system contains contradictions that drive it forward. Capitalism, by creating monopolies and a world market, creates both the material basis for socialism and the conditions for global crises and wars. Imperialism is both the highest and the last stage of capitalism: it shows capitalism’s greatest power and its deepest contradictions.
+## Ch 8: Parasitism and Decay of Capitalism
+Imperialism is based on monopoly capitalism, the domination of a few large corporations, banks and colonial powers. Monopoly reduces the capitalist drive for innovation and efficiency by suppressing competition, causing capitalism to decay into stagnation, technical regression and deliberate obstruction of progress. An example of this is buying patents and shelving them.
+The export of capital (investment abroad) creates a class of rentiers (people who live off interest and dividends rather than productive labor or enterprise). Entire nations (Britain, France, Holland) live as rentier states, drawing vast incomes from foreign investments and colonies. These countries exploit the labor of colonial and semi-colonial peoples and live off their tribute parasitically.
+**Financial Parasitism:** a small number of creditor states dominate a large number of debtor or dependent countries.
+Superprofits allow capitalists in imperialist nations to 'bribe' sections of their own population, the labor aristocracy, with better conditions to align their interest with the ownership class over the international working class, fostering opportunism and reformism in the core countries. The workers in core countries share the spoils of imperialism.
+**Superprofits:** Profits above the average rate, derived from exploiting colonies and cheap labor.
+In imperialist nations, productive work declines while unproductive consumption increases. (Land is converted to sport and leisure, vast sums are spent on luxury). The number of productive workers decreases relative to the population, while rentiers increase. This signals capitalism turning inward and decaying socially, not just economically.
+As imperialist nations grow rich, fewer workers emigrate abroad, instead, they import cheap labor from poorer countries
+## Ch 9: Critique of Imperialism
+The propertied classes are completely committed to imperialism, and so are sectors of the working class (such as those represented by the SPD, social imperialist). The bourgeois defenders of imperialism disguise their arguments with talk of reform, but these are illusions. They obscure the fact that imperialism cannot be reformed away because it is rooted in capitalism itself.
+Many 'anti-imperialist' like Hobson criticize imperialism on moral or democratic grounds, but fail to connect it to capitalism itself. Making it a 'pious wish', not real opposition -- they do not challenge the economic base that generates imperialism.
+Kautsky believes that imperialism is not an inevitable stage of capitalism and it could develop peacefully through 'ultra-imperialism', the future stage of capitalism where the core nations cooperate rather than compete and the urge of capital to expand is better satisfied under peaceful democracy, rather than violent imperialism.
+But once capitalism develops monopolies and finance capital, imperialism necessarily follows. You can’t choose free competition again, it has already given birth to monopoly. Returning to peaceful democracy, is like wishing to go back to an earlier, obsolete stage of capitalism, it's a reactionary impulse. Kautsky’s examples such as British trade with India show a misunderstanding: the growth of trade under imperialism cannot be separated from the monopolies and finance capital that drive it. Exports actually grow in connection with finance capital’s loans, this is financial domination, not peaceful trade. Imperialism is based on a systematic intertwining of industrial and financial monopolies, not on any moral or legal order that can be reformed.
+'Ultra-Imperialism' itself is a masturbatory rebranding of an existing concept of inter-imperialism, but dressed in Marxis lingo. Competition and uneven development make a stable world order impossible. Peace is a truce between wars, and one always begets the other.
+Imperialism leads to reaction everywhere: increased oppression, national domination, and annexations. It intensifies the national question by crushing smaller nations and provoking resistance.
+Peaceful socialism provides ideological cover for the opportunists, socialists who side with the bourgeoisie and betray internationalism by supporting their own nation’s imperialism.
+# Additional Notes
+"ML isn't outdated because capitalism has changed, its outdated because it was always an incoherent doctrine that was only ever invoked for anti-feudal/anti-colonial revolutions that are realistically never going to happen again because capitalism is universal now."
+"Lenin is also incorrect if interpreted to mean that something basic about capitalism has changed, but lenin qualifies his position by saying he views imperialism as a “superstructure” on capitalism, so he does not reject the invariance of marxs model in Capital per se"

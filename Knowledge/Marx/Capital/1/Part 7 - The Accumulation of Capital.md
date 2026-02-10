@@ -1,0 +1,1 @@
+#Philosophy/Marx/Capital [[Capital]]
